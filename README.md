@@ -4,6 +4,7 @@ Express.js project to catch, release and rename pokemons via the [Pokemon API](h
 
 - Express
 - Fs
+- Joi
 - Axios
 - Uuidv4
 
